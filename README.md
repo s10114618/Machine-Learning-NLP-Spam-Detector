@@ -1,9 +1,7 @@
 # Machine-Learning-NLP-Spam-Detector
 In this challenge, we will use Natural Language Processing and Naive Bayes Classifier to detect spam. We will compare Naive Bayes with Logistic Regression to understand which is better for spam detection.
 
-Concepts
-Try out Naive Bayes Classifier on another dataset and analyze the outcome
-Compare Naive Bayes against LogisticRegression
+Concepts for this challenge is to try out Naive Bayes Classifier, Logistic Regression and analyze the outcome
 
 Useful Links
 
